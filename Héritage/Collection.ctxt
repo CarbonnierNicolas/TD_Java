@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collection()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Collection_de_CD\n
+comment1.params=cd
+comment1.target=void\ Add_CD(CD)
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment2.params=dvd
+comment2.target=void\ Add_DVD(DVD)
+comment3.params=clef
+comment3.target=boolean\ check_CD(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
